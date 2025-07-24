@@ -9,4 +9,4 @@ The files are listed based on the groupings of 250,000 posts. So, "Howard_Kaeper
 
 The data and files that are generated are freely available for public and academic use as long as the original work is cited as the source. 
 # Suggested citation (specifics will be added later)
-Massie, K. (accepted). From protest to platform shift: Exploring the impact of Elon Musk's Twitter ownership on public sentiment about Colin Kaepernick. Howard Journal of Communications.
+Massie, K. (forthcoming). From protest to platform shift: Exploring the impact of Elon Musk's Twitter ownership on public sentiment about Colin Kaepernick. Howard Journal of Communications.
